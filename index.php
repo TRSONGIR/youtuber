@@ -1,5 +1,5 @@
 <?php
-$query1 = "https://youtube.com";
+$query1 = "watch?v=iVIi-ssfklE&pbjreload=101";
 if(isset($query1)){
 echo readfile($query1);
 }else{
